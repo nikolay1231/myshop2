@@ -1,0 +1,265 @@
+.img-myshop {
+	padding-left: 20px;
+	padding-top: 8px;
+}
+.Home-Shoes {
+	padding-top: 24px;
+}
+.colortext {
+    color: #2f67a8;
+}
+.Block-Filter-by {
+	display: flex;
+	padding-left: 31px;
+	padding-bottom: 15px;
+	padding-top: 10px;
+}
+.Price-High-Low-button {
+	width: 135px;	
+	height: 17px; 
+  	margin-left: 109px;
+  	margin-top: 18px;
+}
+.product-size-and-color {
+	width: 50%;
+	margin-right: 100px;
+}
+.Price-High-Low {
+	padding-right: 2px;
+}
+.Filter-by {
+	padding-right: 9.77px;
+}
+.Header {
+	display: flex;
+	width: 878px;
+	height: 57px;
+}
+.First-block2 {
+	width: 60%;
+	padding-top: 20px;
+	padding-left: 330px;
+ }
+.First-block3 {
+	width: 10%;
+	padding-top: 14px;
+}
+.basket1 {
+	border:none;
+	background-color: white;
+}
+.Block-baner {
+	width: 878px;
+	height: 137px;
+}
+.Block-text {
+	margin-top: -95px;
+	width: 190px;
+	height: 167px;
+	padding-left: 61px;
+	font-size: 36px;
+}	
+.Block-Card-product {
+	width: 251px;
+	margin-right: 37px;
+}
+.Block-Card-product:hover{
+	box-shadow: 0px 0px 1px 1px; 
+}
+.Block-Card-product:last-child{
+	margin-right: 0px;
+}
+.Size-color {
+	width: 45px;
+}
+.Page {
+	float: right;
+	padding-right: 31px;
+}
+.bottom-block {
+	display: flex;
+	font-size: 14px;
+	margin-top: 53px;
+}
+.bottom-block1 {
+	padding-top: 2px;
+	font-size: 14px;
+	text-align: center;
+}
+.bottom-block2 {
+	text-align: center;
+	padding-top: 15px;
+}
+.Be-first {
+	margin-left: 210px;
+	padding-right: 20px;
+	margin-top: 5px;
+}
+.button1 {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	border-radius: 15px;
+	background: #49AB58;
+	width: 170px;
+	height: 53px;
+	border: none;
+	font-size: 24px;
+}
+.button2 {
+	font-size: 14px;
+	width: 30px;
+	height: 29.79px;
+	margin-right: 13px;
+	background-color: #c4c4c4;
+	border: none;
+}
+.button3 {
+	background-color: #c4c4c4;
+	border: none;
+	font-size: 14px;
+	width: 58.06px;
+	height: 29.79px;
+	margin-top: 11.92px;
+	margin-right: 13px;
+}	
+.button4 {
+	border: none;
+	font-size: 14px;
+	color: #2f67a8;
+	text-decoration: underline;
+	margin-left: 89px;
+}	
+.button5 {
+	font-size: 14px;
+	border: none;
+	border-radius: 15px;
+	background: #49AB58;
+	margin-left: 17.42px;
+	width: 98px;
+	height: 28.8px;
+}
+.Images {
+	width: 198px;
+	height: 195px;
+	padding-left: 26px;
+	padding-top: 12px;
+}
+.Size {
+	margin-top: -10px;
+}
+.Color {
+	margin-top: 24px;
+}
+.Text-it-is-a-long {
+	font-size: 14px;
+	width: 217px;
+	padding-top: 18.87px;
+	padding-left: 16px;
+}
+.Input-button {
+	display: flex;
+	padding-top: 21.85px;
+	padding-left: 16px;
+	padding-bottom: 19px;
+}
+.input1 {
+	width: 122px;
+	height: 20px;
+	margin-right: 23px;
+}
+.input2 {
+	width: 122px;
+	height: 25px;
+	font-size: 14px;
+	border: none;
+	border-radius: 5px;
+}
+.text-decoretion-none{
+	text-decoration: none;
+}
+.Block {
+	width: 878px;
+	height: 330px;
+	padding-bottom: 24px;
+}
+.Block-text {
+	margin-top: -281px;
+	width: 190px;
+	height: 167px;
+	padding-left: 61px;
+	font-size: 36px;
+}	
+.Block-button1 {
+	padding-top: 29px;
+	padding-left: 61px;
+}
+.Block-Why-us {	
+	width: 318px;
+	font-size: 36px;	
+	text-align: center;
+	margin-left:auto; 
+	margin-right:auto;
+	padding-bottom: 20px;
+}
+.Block-Lorem-Ipsum {
+	font-size: 14px;
+	width: 771px;
+	text-align: center;
+	margin-left:auto; 
+	margin-right:auto;
+	padding-bottom: 24px;
+}
+.Block-Top-products {
+	width: 318px;
+	font-size: 36px;	
+	text-align: center;
+	margin-left:auto; 
+	margin-right:auto;
+	padding-bottom: 24px;
+}
+.Products {
+	display: flex;
+	width: 816px;
+	margin-left:auto; 
+	margin-right:auto;
+	padding-bottom: 49px;
+}
+.Block-Our-blog {
+	width: 318px;
+	font-size: 36px;	
+	text-align: center;
+	margin-left:auto; 
+	margin-right:auto;
+	padding-bottom: 12px;
+}
+.Block-Our-blog-stories {
+	display: flex;
+	width: 820px;
+	margin-left:auto; 
+	margin-right:auto;
+}
+.Block-Size-color-button {
+	display: flex;
+	padding-top: 18.43px;
+	padding-left: 16px;
+}
+.Text-Contrary {
+	width: 217px;
+	height: 196px;
+	padding-left: 20px;
+	font-size: 14px;
+}
+body {
+	width: 878px; 
+	margin-left:auto; 
+	margin-right:auto;
+}
+input {
+	font-size: 14px;
+	width: 93px; 
+	height: 22.8px;
+}
+a {
+	color: #2f67a8;
+	padding-right: 3px;
+}
